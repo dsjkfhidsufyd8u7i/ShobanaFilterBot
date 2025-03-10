@@ -47,7 +47,7 @@ async def start(client, message):
             InlineKeyboardButton(' ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
              InlineKeyboardButton(f'ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇs​', url='https://t.me/new_ott_movies3'),
-             InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+6LKz0K2BfF5iYjNl'),
+             InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url=f'https://t.me/+6LKz0K2BfF5iYjNl'),
             InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/mn-bots/ShobanaFilterBot')
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -98,7 +98,7 @@ async def start(client, message):
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ],[
              InlineKeyboardButton(f'ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇs​', url='https://t.me/new_ott_movies3'),
-             InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/mn_movies2'),
+             InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url=f'https://t.me/+6LKz0K2BfF5iYjNl'),
             InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/mn-bots/ShobanaFilterBot')
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
